@@ -20,7 +20,9 @@ IDE: Use of VSCode as the Integrated Development Environment for coding, debuggi
 Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 System Architecture
-![Uploading image.png…]()
+
+
+
 
 
 

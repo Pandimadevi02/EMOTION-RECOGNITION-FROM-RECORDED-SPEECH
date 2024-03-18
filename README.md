@@ -20,17 +20,17 @@ IDE: Use of VSCode as the Integrated Development Environment for coding, debuggi
 Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 System Architecture
-
-
-
-
+![image](https://github.com/Pandimadevi02/EMOTION-RECOGNITION-FROM-RECORDED-SPEECH/assets/113016781/ae5ac29d-aaf8-40b7-9018-765ce0c5d99c)
 
 
 Output
-Output1 - Name of the output
+Output1 - LOAD THE AUDIO FILE
+![image](https://github.com/Pandimadevi02/EMOTION-RECOGNITION-FROM-RECORDED-SPEECH/assets/113016781/f9cbcb3e-d182-4bd1-b4c7-d525c8488f64)
 
 
-Output2 - Name of the output
+Output2 - 
+![image](https://github.com/Pandimadevi02/EMOTION-RECOGNITION-FROM-RECORDED-SPEECH/assets/113016781/516439eb-09aa-4745-b12b-44785f813211)
+
 
 
 
